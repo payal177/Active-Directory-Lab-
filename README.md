@@ -117,6 +117,79 @@ The project covers the complete lifecycle of Active Directory deployment, includ
 ✅ Performed Active Directory troubleshooting
 
 ---
+## 🏗️ Lab Architecture
+
+The lab environment consists of one Windows Server acting as the Domain Controller and one Windows 10 client joined to the Active Directory domain.
+
+```text
+                    VMware Workstation
+     -------------------------------------------------
+
+             Windows Server 2022 (DC01)
+          --------------------------------
+          • Active Directory Domain Services
+          • DNS Server
+          • DHCP Server
+          • Group Policy
+          • File Server
+          • Home Folder Mapping
+
+                       │
+                       │
+                 Domain Network
+                       │
+                       ▼
+
+             Windows 10 Client
+          -------------------------
+          • Domain Joined
+          • Domain User Login
+          • Shared Folder Access
+          • Home Folder Access
+```
+
+---
+## 📅 10-Day Learning Journey
+
+| Day | Topic |
+|------|-------|
+| Day 1 | Windows Server 2022 Installation |
+| Day 2 | Active Directory Users and Groups |
+| Day 3 | Group Policy Management |
+| Day 4 | DNS Configuration |
+| Day 5 | DHCP Configuration |
+| Day 6 | Domain Join and Client Management |
+| Day 7 | File Server and NTFS Permissions |
+| Day 8 | Shared Folders and Access Control |
+| Day 9 | Active Directory Administration and PowerShell |
+| Day 10 | Enterprise Administration and Lab Validation |
+
+---
+## 📂 Repository Structure
+
+```text
+Active-Directory-Lab
+│
+├── 01-Windows-Server-Installation
+├── 02-Active-Directory-Users-and-Groups
+├── 03-Group-Policy-Management
+├── 04-DNS-Configuration
+├── 05-DHCP-Configuration
+├── 06-Domain-Join-and-Client-Management
+├── 07-File-Server-and-NTFS-Permissions
+├── 08-Shared-Folders-and-Access-Control
+├── 09-Active-Directory-Administration-and-Backup
+├── 10-Lab-Validation-and-Project-Completion
+│
+├── Architecture
+├── Diagrams
+├── Interview-Questions
+├── PowerShell
+└── Screenshots
+```
+
+---
+
 
 Throughout the lab, multiple real-world administrative scenarios such as password resets, employee onboarding, employee offboarding, department transfers, file sharing, access control, and troubleshooting were successfully completed.
 
