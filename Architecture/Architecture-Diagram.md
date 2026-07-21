@@ -5,7 +5,11 @@ flowchart TB
 
     VM["🖥️ VMware Workstation"]
 
-    DC["Windows Server 2022 (DC01)<br/>Domain Controller"]
+    DC["Windows Server 2022
+
+DC01.payal.local
+
+Domain Controller"]
 
     AD["Active Directory<br/>Domain Services"]
 
@@ -15,13 +19,20 @@ flowchart TB
 
     GPO["Group Policy"]
 
-    FS["File Server"]
+    FS["File Server
 
-    HF["Home Folder<br/>Mapping"]
+CompanyData"]
 
-    CLIENT["Windows 10 Client"]
+    HF["Home Folder
 
-    USER["Domain Users<br/>Rahul • Aarav"]
+H:\ Drive Mapping"]
+
+    CLIENT["Windows 10 Enterprise Client"]
+
+    USER["Domain Users
+
+• Rahul Sharma
+• Aarav Sharma"]
 
     VM --> DC
 
