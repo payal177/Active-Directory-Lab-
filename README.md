@@ -189,6 +189,107 @@ Active-Directory-Lab
 ```
 
 ---
+## 📸 Project Screenshots
+
+The following screenshots demonstrate the implementation of the Active Directory Lab.
+
+| Component | Status |
+|-----------|--------|
+| Windows Server Installation | ✅ |
+| Active Directory Domain Services | ✅ |
+| Organizational Units (OU) | ✅ |
+| Users and Groups | ✅ |
+| DNS Configuration | ✅ |
+| DHCP Configuration | ✅ |
+| Group Policy Objects (GPO) | ✅ |
+| Windows 10 Domain Join | ✅ |
+| File Server | ✅ |
+| NTFS Permissions | ✅ |
+| Home Folder Mapping | ✅ |
+| PowerShell Commands | ✅ |
+
+> 📁 Detailed screenshots are available inside the **Screenshots** folder.
+
+---
+## 💻 PowerShell Commands
+
+The following PowerShell commands were practiced during this project:
+
+| Command | Purpose |
+|---------|---------|
+| Get-ADUser -Filter * | List all Active Directory users |
+| Get-ADUser -Filter * \| Select Name | Display only usernames |
+| Export-Csv | Export Active Directory users to CSV |
+| Get-Command Get-ADUser | Verify Active Directory module |
+
+Additional PowerShell commands will be added as the project expands.
+
+---
+## 🎤 Interview Preparation
+
+This project was also used as hands-on preparation for Windows Administrator and Infrastructure Support interviews.
+
+Topics covered include:
+
+- Active Directory
+- Organizational Units
+- User Management
+- Group Policy
+- DNS
+- DHCP
+- File Server
+- NTFS Permissions
+- Home Folder
+- PowerShell
+- Windows Troubleshooting
+- Real-world Administration Scenarios
+
+---
+## 🎤 Interview Preparation
+
+This project was also used as hands-on preparation for Windows Administrator and Infrastructure Support interviews.
+
+Topics covered include:
+
+- Active Directory
+- Organizational Units
+- User Management
+- Group Policy
+- DNS
+- DHCP
+- File Server
+- NTFS Permissions
+- Home Folder
+- PowerShell
+- Windows Troubleshooting
+- Real-world Administration Scenarios
+
+---
+## 📚 Learning Outcomes
+
+After completing this project, I gained hands-on experience in:
+
+- Deploying Windows Server 2022
+- Building an Active Directory environment
+- Managing enterprise users and groups
+- Configuring DNS and DHCP
+- Implementing Group Policy
+- Configuring File Servers
+- Applying NTFS Permissions
+- Managing Home Folder Mapping
+- Performing PowerShell administration
+- Troubleshooting enterprise Windows environments
+
+---
+## 👩‍💻 Author
+
+**Payal Acharya**
+
+Infrastructure & Windows Administration Enthusiast
+
+This project was built as part of my hands-on learning journey in Windows Server Administration, Active Directory, and IT Infrastructure.
+
+If you found this project helpful, feel free to ⭐ the repository.
 
 
 Throughout the lab, multiple real-world administrative scenarios such as password resets, employee onboarding, employee offboarding, department transfers, file sharing, access control, and troubleshooting were successfully completed.
