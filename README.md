@@ -118,6 +118,9 @@ The project covers the complete lifecycle of Active Directory deployment, includ
 
 ---
 ## 🏗️ Lab Architecture
+For the complete architecture diagram, see:
+
+📁 **[Architecture/Architecture-Diagram.md](Architecture/Architecture-Diagram.md)**
 
 The lab environment consists of one Windows Server acting as the Domain Controller and one Windows 10 client joined to the Active Directory domain.
 
