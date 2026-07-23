@@ -249,7 +249,6 @@ Infrastructure & Windows Administration Enthusiast
 
 This repository showcases my hands-on implementation of an Enterprise Active Directory environment using Windows Server 2022 and VMware Workstation.
 
-It demonstrates practical skills in Windows Administration, Active Directory, DNS, DHCP, Group Policy, File Server Management, NTFS Permissions, PowerShell, and enterprise troubleshooting.
 ---
 
 ⭐ If you found this project useful, feel free to star the repository.
