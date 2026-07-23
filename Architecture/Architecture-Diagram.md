@@ -1,53 +1,11 @@
-# 🏗️ Enterprise Active Directory Lab Architecture
+# 🏗️ Enterprise Active Directory Lab Architecture Diagram
 
-```mermaid
-flowchart TB
+The following diagram illustrates the complete architecture of the Enterprise Active Directory Lab.
 
-    VM["🖥️ VMware Workstation"]
+---
 
-    DC["Windows Server 2022
+![Enterprise Active Directory Lab](../Screenshots/12-Lab-Architecture.png)
 
-DC01.payal.local
+---
 
-Domain Controller"]
-
-    AD["Active Directory<br/>Domain Services"]
-
-    DNS["DNS Server"]
-
-    DHCP["DHCP Server"]
-
-    GPO["Group Policy"]
-
-    FS["File Server
-
-CompanyData"]
-
-    HF["Home Folder
-
-H:\ Drive Mapping"]
-
-    CLIENT["Windows 10 Enterprise Client"]
-
-    USER["Domain Users
-
-• Rahul Sharma
-• Aarav Sharma"]
-
-    VM --> DC
-
-    DC --> AD
-    DC --> DNS
-    DC --> DHCP
-    DC --> GPO
-    DC --> FS
-    DC --> HF
-
-    DC --> CLIENT
-
-    CLIENT --> USER
-
-    USER --> FS
-
-    USER --> HF
-```
+> **Note:** This architecture demonstrates a Windows Server 2022 Domain Controller (DC01) with Active Directory, DNS, DHCP, Group Policy, File Server, and a Windows 10 domain-joined client within a VMware Workstation environment.
