@@ -2,7 +2,7 @@
 
 ### Q1. What is Active Directory?
 
-**Answer:**Active Directory (AD DS) is Microsoft's centralized directory service used to manage users, computers, groups, and security policies within a Windows domain.
+**Answer:** Active Directory (AD DS) is Microsoft's centralized directory service used to manage users, computers, groups, and security policies within a Windows domain.
 ---
 
 ### Q2. What is a Domain Controller?
