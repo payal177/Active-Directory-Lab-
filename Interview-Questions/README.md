@@ -1,10 +1,11 @@
-# Interview Questions
+# 🎤 Windows Administrator Interview Questions
 
-This folder contains technical interview questions and answers prepared during this Active Directory Lab.
+The questions cover both theoretical concepts and real-world scenarios commonly asked for Windows Administrator, System Administrator, Infrastructure Support, and IT Support Engineer roles.
 
-Topics include:
+---
 
-- Windows Server
+# 📑 Contents
+
 - Active Directory
 - DNS
 - DHCP
@@ -14,5 +15,6 @@ Topics include:
 - Home Folder
 - PowerShell
 - Troubleshooting Scenarios
+- HR Questions
 
-These questions were prepared to reinforce concepts and support interview preparation.
+---
