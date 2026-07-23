@@ -1,10 +1,6 @@
 # ⚡ PowerShell Commands for Active Directory
 
-This document contains the PowerShell commands used during the Enterprise Active Directory Lab.
-
-These commands helped automate common Active Directory administration tasks and are frequently used by Windows Administrators.
-
----
+⭐ These commands represent the PowerShell operations performed during the Active Directory Lab.
 
 # 📋 Commands Practiced
 
@@ -62,4 +58,4 @@ Get-Command Get-ADUser
 
 ---
 
-⭐ These commands represent the PowerShell operations performed during the Active Directory Lab.
+
