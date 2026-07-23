@@ -10,7 +10,7 @@ Each screenshot represents a major milestone completed during the lab.
 
 The overall architecture of the Active Directory Lab environment.
 
-![Lab Architecture](13-Lab-Architecture.png)
+![Lab Architecture](12-Lab-Architecture.png)
 
 ---
 
@@ -74,7 +74,7 @@ Configured the **CompanyData** shared folder for departmental file sharing.
 
 Configured NTFS permissions to provide secure department-wise access to shared folders.
 
-![NTFS Permissions](09-NTFS-Permissions.png)
+![NTFS Permissions](08-NTFS-Permissions.png)
 
 ---
 
@@ -82,7 +82,7 @@ Configured NTFS permissions to provide secure department-wise access to shared f
 
 Configured SMB Advanced Sharing settings for the CompanyData shared folder.
 
-![Advanced Sharing](10-Advanced-Sharing.png)
+![Advanced Sharing](9-Advanced-Sharing.png)
 
 ---
 
@@ -90,7 +90,7 @@ Configured SMB Advanced Sharing settings for the CompanyData shared folder.
 
 Configured user Home Folder mapping using the **H:** drive.
 
-![Home Folder](11-Home-Folder.png)
+![Home Folder](10-Home-Folder.png)
 
 ---
 
@@ -98,7 +98,7 @@ Configured user Home Folder mapping using the **H:** drive.
 
 Performed Active Directory administration tasks using PowerShell cmdlets.
 
-![PowerShell](12-PowerShell.png)
+![PowerShell](11-PowerShell.png)
 
 ---
 
