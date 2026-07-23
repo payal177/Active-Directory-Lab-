@@ -1,16 +1,15 @@
-# 👤 Day 2 – Active Directory Users & Groups
+# 🛡️ Day 3 – Group Policy Management
 
 ## Objective
-Create and organize Active Directory objects.
+Manage users and computers using Group Policy.
 
 ## Tasks Performed
-- Installed AD DS
-- Created Organizational Units (OUs)
-- Added domain users
-- Created security groups
-- Managed user memberships
+- Created Group Policy Objects (GPOs)
+- Linked GPOs to OUs
+- Configured user policies
+- Tested policy application
 
 ## Skills Learned
-- Active Directory
-- User Management
-- Group Administration
+- Group Policy
+- Centralized Administration
+- Windows Policy Management
