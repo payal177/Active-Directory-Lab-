@@ -212,6 +212,11 @@ The following screenshots demonstrate the implementation of the Active Directory
 | PowerShell Commands | ✅ |
 
 > 📁 Detailed screenshots are available inside the **Screenshots** folder.
+> ## 📸 Screenshots
+
+View the complete implementation screenshots here:
+
+➡️ **[Screenshots Gallery](Screenshots/README.md)**
 
 ---
 ## 💻 PowerShell Commands
