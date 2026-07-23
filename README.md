@@ -38,21 +38,18 @@ The project covers the complete lifecycle of Active Directory deployment, includ
 - PowerShell Administration
 - Enterprise Troubleshooting
 
-- ## 📑 Table of Contents
+## 📑 Table of Contents
 
-- [📖 Project Overview](#-project-overview)
-- [🎯 Project Objectives](#-project-objectives)
-- [🛠️ Technologies Used](#️-technologies-used)
-- [🏗️ Lab Architecture](#️-lab-architecture)
-- [🚀 Features Implemented](#-features-implemented)
-- [📅 10-Day Learning Journey](#-10-day-learning-journey)
-- [📂 Repository Structure](#-repository-structure)
-- [📸 Screenshots](#-screenshots)
-- [💻 PowerShell Commands](#-powershell-commands)
-- [🎤 Interview Preparation](#-interview-preparation)
-- [📚 Learning Outcomes](#-learning-outcomes)
-- [👩‍💻 Author](#-author)
-
+- [Project Overview](#-project-overview)
+- [Objectives](#-project-objectives)
+- [Technologies Used](#-technologies-used)
+- [Architecture](#-architecture)
+- [Repository Structure](#-repository-structure)
+- [Screenshots](#-project-screenshots)
+- [PowerShell Commands](#-powershell)
+- [Interview Questions](#-interview-questions)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Learning Outcomes](#-learning-outcomes)
 ---
 ## 🎯 Project Objectives
 
@@ -194,22 +191,10 @@ Active-Directory-Lab
 ---
 ## 📸 Project Screenshots
 
-The following screenshots demonstrate the implementation of the Active Directory Lab.
 
-| Component | Status |
-|-----------|--------|
-| Windows Server Installation | ✅ |
-| Active Directory Domain Services | ✅ |
-| Organizational Units (OU) | ✅ |
-| Users and Groups | ✅ |
-| DNS Configuration | ✅ |
-| DHCP Configuration | ✅ |
-| Group Policy Objects (GPO) | ✅ |
-| Windows 10 Domain Join | ✅ |
-| File Server | ✅ |
-| NTFS Permissions | ✅ |
-| Home Folder Mapping | ✅ |
-| PowerShell Commands | ✅ |
+A complete implementation gallery is available below.
+
+➡️ **[View Complete Screenshot Gallery](Screenshots/README.md)**
 
 > 📁 Detailed screenshots are available inside the **Screenshots** folder.
 > ## 📸 Screenshots
@@ -219,6 +204,30 @@ View the complete implementation screenshots here:
 ➡️ **[Screenshots Gallery](Screenshots/README.md)**
 
 ---
+## 🚀 Repository Highlights
+
+✔ Enterprise Active Directory Deployment
+
+✔ Windows Server 2022 Administration
+
+✔ DNS Configuration
+
+✔ DHCP Configuration
+
+✔ Group Policy Objects (GPO)
+
+✔ Windows Client Domain Join
+
+✔ File Server & NTFS Permissions
+
+✔ Home Folder Mapping
+
+✔ PowerShell Administration
+
+✔ Enterprise Troubleshooting Scenarios
+
+---
+
 ## 💻 PowerShell Commands
 
 The following PowerShell commands were practiced during this project:
@@ -232,6 +241,20 @@ The following PowerShell commands were practiced during this project:
 
 Additional PowerShell commands will be added as the project expands.
 
+---
+## 📚 Learning Outcomes
+
+Throughout this project I gained hands-on experience with:
+
+- Active Directory Domain Services
+- DNS & DHCP Administration
+- Group Policy Management
+- Windows Client Management
+- File Server Administration
+- NTFS Security
+- Home Folder Configuration
+- PowerShell Automation
+- Windows Server Troubleshooting
 ---
 ## 🎤 Interview Preparation
 
@@ -303,3 +326,8 @@ If you found this project helpful, feel free to ⭐ the repository.
 Throughout the lab, multiple real-world administrative scenarios such as password resets, employee onboarding, employee offboarding, department transfers, file sharing, access control, and troubleshooting were successfully completed.
 
 ---
+---
+
+⭐ If you found this project useful, feel free to star the repository.
+
+Built with ❤️ using Windows Server 2022 & VMware Workstation.
