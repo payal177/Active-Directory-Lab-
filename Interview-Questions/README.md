@@ -1,20 +1,15 @@
 # 🎤 Windows Administrator Interview Questions
+Interview questions and answers based on the Enterprise Active Directory Lab.
 
-The questions cover both theoretical concepts and real-world scenarios commonly asked for Windows Administrator, System Administrator, Infrastructure Support, and IT Support Engineer roles.
+## 📚 Topics
 
----
-
-# 📑 Contents
-
-- Active Directory
-- DNS
-- DHCP
-- Group Policy
-- File Server
-- NTFS Permissions
-- Home Folder
-- PowerShell
-- Troubleshooting Scenarios
-- HR Questions
-
----
+- 👤 [Active Directory](Active-Directory.md)
+- 🌐 [DNS](DNS.md)
+- 📡 [DHCP](DHCP.md)
+- 🛡️ [Group Policy](Group-Policy.md)
+- 📂 [File Server](File-Server.md)
+- 🔐 [NTFS Permissions](NTFS-Permissions.md)
+- 🏠 [Home Folder](Home-Folder.md)
+- ⚡ [PowerShell](PowerShell.md)
+- 🚨 [Troubleshooting Scenarios](Troubleshooting.md)
+- 🤝 [HR Questions](HR-Questions.md)
