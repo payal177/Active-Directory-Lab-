@@ -1,3 +1,6 @@
+
+# 🏗️ Enterprise Active Directory Lab Architecture Diagram
+
 ```mermaid
 flowchart TD
 
