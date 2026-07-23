@@ -197,11 +197,6 @@ A complete implementation gallery is available below.
 ➡️ **[View Complete Screenshot Gallery](Screenshots/README.md)**
 
 > 📁 Detailed screenshots are available inside the **Screenshots** folder.
-> ## 📸 Screenshots
-
-View the complete implementation screenshots here:
-
-➡️ **[Screenshots Gallery](Screenshots/README.md)**
 
 ---
 ## 🚀 Repository Highlights
