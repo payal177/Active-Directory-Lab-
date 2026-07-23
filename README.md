@@ -149,22 +149,6 @@ The lab environment consists of one Windows Server acting as the Domain Controll
 ```
 
 ---
-## 📅 10-Day Learning Journey
-
-| Day | Topic |
-|------|-------|
-| Day 1 | Windows Server 2022 Installation |
-| Day 2 | Active Directory Users and Groups |
-| Day 3 | Group Policy Management |
-| Day 4 | DNS Configuration |
-| Day 5 | DHCP Configuration |
-| Day 6 | Domain Join and Client Management |
-| Day 7 | File Server and NTFS Permissions |
-| Day 8 | Shared Folders and Access Control |
-| Day 9 | Active Directory Administration and PowerShell |
-| Day 10 | Enterprise Administration and Lab Validation |
-
----
 ## 📂 Repository Structure
 
 ```text
@@ -189,6 +173,22 @@ Active-Directory-Lab
 ```
 
 ---
+## 📅 10-Day Learning Journey
+
+| Day | Topic |
+|------|-------|
+| Day 1 | Windows Server 2022 Installation |
+| Day 2 | Active Directory Users and Groups |
+| Day 3 | Group Policy Management |
+| Day 4 | DNS Configuration |
+| Day 5 | DHCP Configuration |
+| Day 6 | Domain Join and Client Management |
+| Day 7 | File Server and NTFS Permissions |
+| Day 8 | Shared Folders and Access Control |
+| Day 9 | Active Directory Administration and PowerShell |
+| Day 10 | Enterprise Administration and Lab Validation |
+
+---
 ## 📸 Project Screenshots
 
 
@@ -197,29 +197,6 @@ A complete implementation gallery is available below.
 ➡️ **[View Complete Screenshot Gallery](Screenshots/README.md)**
 
 > 📁 Detailed screenshots are available inside the **Screenshots** folder.
-
----
-## 🚀 Repository Highlights
-
-✔ Enterprise Active Directory Deployment
-
-✔ Windows Server 2022 Administration
-
-✔ DNS Configuration
-
-✔ DHCP Configuration
-
-✔ Group Policy Objects (GPO)
-
-✔ Windows Client Domain Join
-
-✔ File Server & NTFS Permissions
-
-✔ Home Folder Mapping
-
-✔ PowerShell Administration
-
-✔ Enterprise Troubleshooting Scenarios
 
 ---
 
@@ -236,40 +213,32 @@ The following PowerShell commands were practiced during this project:
 
 Additional PowerShell commands will be added as the project expands.
 ---
-## 🎤 Interview Preparation
+## 🎤 Interview Readiness
 
-This project was also used as hands-on preparation for Windows Administrator and Infrastructure Support interviews.
+This project helped me prepare for Windows Administrator and Infrastructure Support interviews by providing hands-on experience with:
 
-Topics covered include:
-
-- Active Directory
-- Organizational Units
-- User Management
-- Group Policy
-- DNS
-- DHCP
-- File Server
+- Active Directory Administration
+- DNS & DHCP Troubleshooting
+- Group Policy Management
 - NTFS Permissions
-- Home Folder
-- PowerShell
-- Windows Troubleshooting
-- Real-world Administration Scenarios
+- User Provisioning & Deprovisioning
+- File Server Administration
+- PowerShell Basics
+- Enterprise Troubleshooting Scenarios
 
 ---
-## 📚 Learning Outcomes
+## 📚 Key Skills Gained
 
-After completing this project, I gained hands-on experience in:
+Throughout this project, I developed practical experience in:
 
-- Deploying Windows Server 2022
-- Building an Active Directory environment
-- Managing enterprise users and groups
-- Configuring DNS and DHCP
-- Implementing Group Policy
-- Configuring File Servers
-- Applying NTFS Permissions
-- Managing Home Folder Mapping
-- Performing PowerShell administration
-- Troubleshooting enterprise Windows environments
+- Windows Server Administration
+- Enterprise Active Directory Deployment
+- Identity & Access Management
+- File Server Administration
+- Infrastructure Troubleshooting
+- Windows PowerShell Administration
+- Technical Documentation
+- IT Support Best Practices
 
 ---
 ## 👩‍💻 Author
@@ -278,10 +247,9 @@ After completing this project, I gained hands-on experience in:
 
 Infrastructure & Windows Administration Enthusiast
 
-This project was built as part of my hands-on learning journey in Windows Server Administration, Active Directory, and IT Infrastructure.
+This repository showcases my hands-on implementation of an Enterprise Active Directory environment using Windows Server 2022 and VMware Workstation.
 
-Throughout the lab, multiple real-world administrative scenarios such as password resets, employee onboarding, employee offboarding, department transfers, file sharing, access control, and troubleshooting were successfully completed.
-
+It demonstrates practical skills in Windows Administration, Active Directory, DNS, DHCP, Group Policy, File Server Management, NTFS Permissions, PowerShell, and enterprise troubleshooting.
 ---
 
 ⭐ If you found this project useful, feel free to star the repository.
