@@ -235,41 +235,6 @@ The following PowerShell commands were practiced during this project:
 | Get-Command Get-ADUser | Verify Active Directory module |
 
 Additional PowerShell commands will be added as the project expands.
-
----
-## 📚 Learning Outcomes
-
-Throughout this project I gained hands-on experience with:
-
-- Active Directory Domain Services
-- DNS & DHCP Administration
-- Group Policy Management
-- Windows Client Management
-- File Server Administration
-- NTFS Security
-- Home Folder Configuration
-- PowerShell Automation
-- Windows Server Troubleshooting
----
-## 🎤 Interview Preparation
-
-This project was also used as hands-on preparation for Windows Administrator and Infrastructure Support interviews.
-
-Topics covered include:
-
-- Active Directory
-- Organizational Units
-- User Management
-- Group Policy
-- DNS
-- DHCP
-- File Server
-- NTFS Permissions
-- Home Folder
-- PowerShell
-- Windows Troubleshooting
-- Real-world Administration Scenarios
-
 ---
 ## 🎤 Interview Preparation
 
@@ -315,12 +280,8 @@ Infrastructure & Windows Administration Enthusiast
 
 This project was built as part of my hands-on learning journey in Windows Server Administration, Active Directory, and IT Infrastructure.
 
-If you found this project helpful, feel free to ⭐ the repository.
-
-
 Throughout the lab, multiple real-world administrative scenarios such as password resets, employee onboarding, employee offboarding, department transfers, file sharing, access control, and troubleshooting were successfully completed.
 
----
 ---
 
 ⭐ If you found this project useful, feel free to star the repository.
